@@ -14,7 +14,7 @@ body {
 }
 
 a {
-  color: #149ddd;
+  color:  #20c997;
 }
 
 a:hover {
@@ -113,7 +113,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .profile .social-links a:hover {
-  background: #149ddd;
+  background: #20c997;
   color: #fff;
   text-decoration: none;
 }
@@ -172,7 +172,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover i, .nav-menu .active > a i, .nav-menu li:hover > a i {
-  color: #149ddd;
+  color: #20c997;;
 }
 
 /* Mobile Navigation */
@@ -192,7 +192,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav-toggle i {
-  color: #149ddd;
+  color: #20c997;
+ 
 }
 
 .mobile-nav-active {
@@ -298,6 +299,7 @@ section {
   padding-bottom: 20px;
   position: relative;
   color: #173b6c;
+  
 }
 
 .section-title h2::after {
